@@ -1,1 +1,0 @@
-# SDC-traffic-sign-classifier
